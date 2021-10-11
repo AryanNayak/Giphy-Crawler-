@@ -1,7 +1,7 @@
 # Giphy Crawler 
 
 
-Hosted Link: [https://giphycrawler.netlify.app/]
+Hosted: [Link](https://giphycrawler.netlify.app/)
 
 
 
